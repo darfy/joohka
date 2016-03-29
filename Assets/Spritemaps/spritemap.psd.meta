@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d7856e69337e56141b297ba9f3549bd9
-timeCreated: 1459160773
+timeCreated: 1459178502
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -601,15 +601,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 3, y: 17}
-        - {x: -7, y: 17}
-        - {x: -11, y: 10}
-        - {x: -11, y: -25}
+      - - {x: -14, y: 17}
+        - {x: -16, y: 15}
+        - {x: -16, y: -22}
+        - {x: -14, y: -26}
         - {x: -7, y: -28}
-        - {x: 7, y: -28}
-        - {x: 8, y: -23}
-        - {x: 8, y: 4}
-        - {x: 5, y: 16}
+        - {x: 6, y: -28}
+        - {x: 8, y: -19}
+        - {x: 8, y: 12}
+        - {x: 7, y: 17}
     - name: spritemap_17
       rect:
         serializedVersion: 2
@@ -621,13 +621,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11, y: -28}
-        - {x: 5, y: -28}
-        - {x: 8, y: -24}
-        - {x: 8, y: 16}
-        - {x: 7, y: 17}
-        - {x: -8, y: 17}
-        - {x: -11, y: 12}
+      - - {x: 3, y: 17}
+        - {x: -7, y: 17}
+        - {x: -16, y: 0}
+        - {x: -16, y: -28}
+        - {x: 6, y: -28}
+        - {x: 7, y: -26}
+        - {x: 8, y: -18}
+        - {x: 8, y: -1}
+        - {x: 4, y: 16}
     - name: spritemap_18
       rect:
         serializedVersion: 2
@@ -641,14 +643,14 @@ TextureImporter:
       outline:
       - - {x: 2, y: -27}
         - {x: 7, y: -27}
-        - {x: 8, y: -24}
-        - {x: 8, y: -3}
-        - {x: 5, y: 17}
-        - {x: -10, y: 17}
-        - {x: -12, y: 16}
-        - {x: -12, y: -27}
-        - {x: -7, y: -27}
-        - {x: -2, y: -22}
+        - {x: 8, y: -25}
+        - {x: 8, y: 17}
+        - {x: -13, y: 17}
+        - {x: -16, y: 10}
+        - {x: -16, y: -13}
+        - {x: -12, y: -25}
+        - {x: -9, y: -27}
+        - {x: -6, y: -26}
         - {x: 0, y: -16}
         - {x: 0, y: -15}
         - {x: 0, y: -25}
@@ -663,13 +665,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 3, y: 17}
-        - {x: -8, y: 17}
-        - {x: -13, y: 0}
-        - {x: -13, y: -27}
+      - - {x: -12, y: 17}
+        - {x: -16, y: 7}
+        - {x: -16, y: -8}
+        - {x: -14, y: -10}
+        - {x: -14, y: -26}
+        - {x: -12, y: -27}
         - {x: 10, y: -27}
-        - {x: 10, y: 5}
-        - {x: 4, y: 16}
+        - {x: 10, y: 10}
+        - {x: 9, y: 17}
     - name: spritemap_20
       rect:
         serializedVersion: 2
@@ -681,13 +685,16 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 18}
-        - {x: -12, y: 14}
-        - {x: -12, y: -27}
+      - - {x: 3, y: 18}
+        - {x: -7, y: 18}
+        - {x: -15, y: 7}
+        - {x: -16, y: 4}
+        - {x: -16, y: -20}
+        - {x: -13, y: -27}
         - {x: 6, y: -27}
-        - {x: 8, y: -24}
+        - {x: 8, y: -22}
         - {x: 8, y: 1}
-        - {x: 5, y: 18}
+        - {x: 5, y: 17}
     - name: spritemap_21
       rect:
         serializedVersion: 2
@@ -699,12 +706,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 18}
-        - {x: -11, y: 17}
+      - - {x: -16, y: -18}
+        - {x: -13, y: -27}
         - {x: -11, y: -28}
-        - {x: 8, y: -28}
-        - {x: 8, y: 15}
-        - {x: 3, y: 18}
+        - {x: 7, y: -28}
+        - {x: 8, y: -27}
+        - {x: 8, y: 18}
+        - {x: -10, y: 18}
+        - {x: -16, y: 11}
     - name: spritemap_22
       rect:
         serializedVersion: 2
@@ -716,13 +725,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 17}
-        - {x: -11, y: 14}
-        - {x: -11, y: -28}
-        - {x: 6, y: -28}
-        - {x: 8, y: -21}
-        - {x: 8, y: 6}
-        - {x: 5, y: 17}
+      - - {x: -10, y: 17}
+        - {x: -17, y: 10}
+        - {x: -17, y: -11}
+        - {x: -9, y: -27}
+        - {x: -5, y: -28}
+        - {x: 8, y: -28}
+        - {x: 8, y: 17}
     - name: spritemap_23
       rect:
         serializedVersion: 2
@@ -734,14 +743,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -7, y: 17}
-        - {x: -12, y: 9}
-        - {x: -12, y: -15}
-        - {x: -5, y: -28}
-        - {x: 5, y: -28}
-        - {x: 8, y: -18}
-        - {x: 8, y: -1}
-        - {x: 5, y: 17}
+      - - {x: -11, y: 17}
+        - {x: -17, y: 12}
+        - {x: -17, y: -19}
+        - {x: -12, y: -28}
+        - {x: 6, y: -28}
+        - {x: 7, y: -27}
+        - {x: 7, y: 17}
     - name: spritemap_24
       rect:
         serializedVersion: 2
@@ -753,14 +761,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 17}
-        - {x: -13, y: 12}
-        - {x: -13, y: -28}
-        - {x: 3, y: -28}
-        - {x: 6, y: -26}
-        - {x: 9, y: -18}
-        - {x: 9, y: -1}
-        - {x: 5, y: 17}
+      - - {x: -12, y: 17}
+        - {x: -17, y: 9}
+        - {x: -17, y: -12}
+        - {x: -9, y: -28}
+        - {x: 7, y: -28}
+        - {x: 7, y: 17}
     - name: spritemap_25
       rect:
         serializedVersion: 2
@@ -772,15 +778,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 3, y: 18}
-        - {x: -7, y: 18}
-        - {x: -12, y: 10}
-        - {x: -12, y: -14}
-        - {x: -5, y: -28}
-        - {x: 6, y: -28}
-        - {x: 8, y: -22}
-        - {x: 8, y: 4}
-        - {x: 5, y: 17}
+      - - {x: -9, y: 18}
+        - {x: -17, y: 9}
+        - {x: -17, y: -10}
+        - {x: -16, y: -11}
+        - {x: -5, y: -27}
+        - {x: 1, y: -28}
+        - {x: 7, y: -28}
+        - {x: 7, y: 18}
     - name: spritemap_26
       rect:
         serializedVersion: 2
@@ -792,11 +797,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -8, y: 18}
-        - {x: -11, y: 13}
-        - {x: -11, y: -13}
+      - - {x: -12, y: 18}
+        - {x: -17, y: 8}
+        - {x: -17, y: -6}
+        - {x: -16, y: -9}
         - {x: -8, y: -28}
-        - {x: 8, y: -28}
+        - {x: 7, y: -28}
+        - {x: 8, y: -24}
         - {x: 8, y: 18}
     - name: spritemap_27
       rect:
@@ -876,18 +883,22 @@ TextureImporter:
     - name: spritemap_32
       rect:
         serializedVersion: 2
-        x: 1
-        y: 887
-        width: 62
-        height: 8
+        x: 0
+        y: 832
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: 21}
-        - {x: 32, y: 21}
-        - {x: 32, y: 32}
+      - - {x: 2, y: 17}
+        - {x: -7, y: 17}
+        - {x: -11, y: 11}
+        - {x: -11, y: -17}
+        - {x: -9, y: -28}
+        - {x: 8, y: -28}
+        - {x: 8, y: 7}
+        - {x: 4, y: 16}
     - name: spritemap_33
       rect:
         serializedVersion: 2
@@ -899,10 +910,12 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: -11, y: -26}
+        - {x: -7, y: -28}
+        - {x: 8, y: -28}
+        - {x: 8, y: 17}
+        - {x: -7, y: 17}
+        - {x: -11, y: 10}
     - name: spritemap_34
       rect:
         serializedVersion: 2
@@ -914,10 +927,19 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: 2, y: -27}
+        - {x: 7, y: -27}
+        - {x: 8, y: -24}
+        - {x: 8, y: -3}
+        - {x: 5, y: 17}
+        - {x: -10, y: 17}
+        - {x: -12, y: 16}
+        - {x: -12, y: -27}
+        - {x: -7, y: -27}
+        - {x: -2, y: -22}
+        - {x: 0, y: -16}
+        - {x: 0, y: -15}
+        - {x: 0, y: -25}
     - name: spritemap_35
       rect:
         serializedVersion: 2
@@ -929,10 +951,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: 3, y: 17}
+        - {x: -8, y: 17}
+        - {x: -13, y: 0}
+        - {x: -13, y: -27}
+        - {x: 10, y: -27}
+        - {x: 10, y: 5}
+        - {x: 4, y: 16}
     - name: spritemap_36
       rect:
         serializedVersion: 2
@@ -944,10 +969,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: -8, y: 18}
+        - {x: -12, y: 14}
+        - {x: -12, y: -27}
+        - {x: 6, y: -27}
+        - {x: 8, y: -24}
+        - {x: 8, y: 1}
+        - {x: 5, y: 18}
     - name: spritemap_37
       rect:
         serializedVersion: 2
@@ -959,10 +987,13 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: 2, y: 18}
+        - {x: -9, y: 18}
+        - {x: -11, y: 17}
+        - {x: -11, y: -28}
+        - {x: 8, y: -28}
+        - {x: 8, y: 12}
+        - {x: 4, y: 17}
     - name: spritemap_38
       rect:
         serializedVersion: 2
@@ -974,10 +1005,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: 3, y: 17}
+        - {x: -8, y: 17}
+        - {x: -11, y: 14}
+        - {x: -11, y: -28}
+        - {x: 6, y: -28}
+        - {x: 8, y: -20}
+        - {x: 8, y: 5}
+        - {x: 5, y: 16}
     - name: spritemap_39
       rect:
         serializedVersion: 2
@@ -989,10 +1024,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: 3, y: 17}
+        - {x: -7, y: 17}
+        - {x: -12, y: 9}
+        - {x: -12, y: -22}
+        - {x: -5, y: -28}
+        - {x: 8, y: -28}
+        - {x: 8, y: 3}
+        - {x: 4, y: 16}
     - name: spritemap_40
       rect:
         serializedVersion: 2
@@ -1004,10 +1043,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: -13, y: -28}
+        - {x: 7, y: -28}
+        - {x: 11, y: -22}
+        - {x: 11, y: 1}
+        - {x: 4, y: 16}
+        - {x: 3, y: 17}
+        - {x: -8, y: 17}
+        - {x: -13, y: 12}
     - name: spritemap_41
       rect:
         serializedVersion: 2
@@ -1019,10 +1062,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: 3, y: 18}
+        - {x: -8, y: 18}
+        - {x: -12, y: 10}
+        - {x: -12, y: -24}
+        - {x: -7, y: -28}
+        - {x: 7, y: -28}
+        - {x: 8, y: -22}
+        - {x: 8, y: 6}
+        - {x: 4, y: 17}
     - name: spritemap_42
       rect:
         serializedVersion: 2
@@ -1034,10 +1082,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32, y: 32}
-        - {x: -32, y: -32}
-        - {x: 32, y: -32}
-        - {x: 32, y: 32}
+      - - {x: -11, y: -13}
+        - {x: -9, y: -26}
+        - {x: -4, y: -28}
+        - {x: 8, y: -28}
+        - {x: 8, y: 6}
+        - {x: 7, y: 18}
+        - {x: -7, y: 18}
+        - {x: -11, y: 12}
     - name: spritemap_43
       rect:
         serializedVersion: 2

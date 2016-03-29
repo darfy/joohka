@@ -10,17 +10,21 @@ public class Player : MonoBehaviour {
 	private float JumpTime = 0f;
 	private bool CanJump;
 	public Animator anim;
+	public int weapon = 0;
+	public Sprite sprite;
+	public Sprite sprite2h;
 
 
 	void Start () {
 		JumpTime  = MaxJumpTime;
 		anim = GetComponent<Animator>();
-		Debug.Log ("anim");
+		Debug.Log ("animator initiated");
 	}
 
 
 	void Update ()
 	{
+
 		if (!CanJump)
 			JumpTime  -= Time.deltaTime;
 		if (JumpTime <= 0)
@@ -29,10 +33,27 @@ public class Player : MonoBehaviour {
 			JumpTime  = MaxJumpTime;
 		}
 	}
-
 	void FixedUpdate () {
 		move = Input.GetAxis ("Horizontal");
 		anim.SetFloat ("Speed", move);
+		if (Input.GetKeyDown(KeyCode.E)){
+			Debug.Log ("changing weapons");
+			if (weapon == 0) {
+				weapon = 1;
+				Debug.Log (GetComponent<SpriteRenderer> ().sprite);
+				Debug.Log (Resources.Load ("spritemap_0", typeof(Sprite)) as Sprite);
+				Debug.Log (sprite2h);
+				this.GetComponent<SpriteRenderer> ().sprite = sprite2h;
+
+			} else {
+				weapon = 0;
+				this.GetComponent<SpriteRenderer> ().sprite = sprite;
+			}
+
+
+			anim.SetInteger ("Weapon", weapon);
+			Debug.Log ("Sprite is set to " + this.GetComponent<SpriteRenderer> ().sprite + " After weapon change" );
+		}
 		if (move < 0 && move != 0) {
 			anim.SetBool ("Right", false);
 		} else
